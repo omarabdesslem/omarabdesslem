@@ -1,6 +1,8 @@
 # Bonjour, I'm Omar 🥂
 
-💻 I'm a computer scientist. I like creating sustainable projects and utilitarian minimalist design
+- 🔭 I’m currently working on ML projects at **SecuLabs**, a Swiss cybersecurity company  
+- 🌱 I’m currently learning about **advanced probabilistic models**, **distributed systems**, and **Applied Deep Learning**  
+- 📫 How to reach me: [omar-abdesslem.ch](https://omar-abdesslem.ch) | [LinkedIn](https://linkedin.com/in/omar-abdesslem)
 
 ---
 
@@ -9,11 +11,6 @@
 🎓 MSc Student @ ETH Zürich | 🤖 AI Intern @ SecuLabs  
 📍 Geneva, Switzerland  
 💡I value **clarity, sustainability, and thoughtful design** 
-
----
-- 🔭 I’m currently working on ML projects at **SecuLabs**, a Swiss cybersecurity company  
-- 🌱 I’m currently learning about **advanced probabilistic models**, **distributed systems**, and **Applied Deep Learning**  
-- 📫 How to reach me: [omar-abdesslem.ch](https://omar-abdesslem.ch) | [LinkedIn](https://linkedin.com/in/omar-abdesslem)
 
 
 <!--
