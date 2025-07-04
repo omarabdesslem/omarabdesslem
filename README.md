@@ -1,20 +1,18 @@
-# Hi there / Salut 👋 I'm Omar 
+# Bonjour, 👋 I'm Omar 
 
-🎓 MSc Student @ ETH Zürich | 🤖 AI Intern @ SecuLabs  
-📍 Geneva, Switzerland  
 💻 I'm a computer scientist. I like creating sustainable projects and utilitarian minimalist design
 
 ---
 
 ## 🧠 About Me
 
-I'm Omar, an upcoming Master's student in **Machine Intelligence & Data Science** at **ETH Zürich**. I enjoy designing elegant software systems and solving real-world problems using AI and data-driven solutions.
-
-I value **clarity, sustainability, and thoughtful design** — whether in code, research, or product interfaces.
+🎓 MSc Student @ ETH Zürich | 🤖 AI Intern @ SecuLabs  
+📍 Geneva, Switzerland  
+💡I value **clarity, sustainability, and thoughtful design** 
 
 ---
 - 🔭 I’m currently working on ML projects at **SecuLabs**, a Swiss cybersecurity company  
-- 🌱 I’m currently learning about **advanced probabilistic models**, **distributed systems**, and **AI for energy forecasting**  
+- 🌱 I’m currently learning about **advanced probabilistic models**, **distributed systems**, and **Applied Deep Learning**  
 - 📫 How to reach me: [omar-abdesslem.ch](https://omar-abdesslem.ch) | [LinkedIn](https://linkedin.com/in/omar-abdesslem)
 
 
