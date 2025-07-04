@@ -1,4 +1,4 @@
-# Bonjour, 👋 I'm Omar 
+# Bonjour, I'm Omar 🥂
 
 💻 I'm a computer scientist. I like creating sustainable projects and utilitarian minimalist design
 
