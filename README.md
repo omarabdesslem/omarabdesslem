@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-🎓 MSc Student @ ETH Zürich | 🤖 AI Intern @ SecuLabs  
+🎓 MSc Student @ ETH Zürich | AI Intern @ SecuLabs  
 📍 Geneva, Switzerland  
 💡I value clarity, sustainability, and thoughtful design 
 
