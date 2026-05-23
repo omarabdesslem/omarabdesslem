@@ -1,16 +1,16 @@
-# Bonjour, I'm Omar 🥂
+# Salut, I'm Omar 🥂
 
 - 🔭 I’m currently working on ML projects at **SecuLabs**, a Swiss cybersecurity company  
-- 🌱 I’m currently learning about **advanced probabilistic models**, **distributed systems**, and **Applied Deep Learning**  
-- 📫 How to reach me: [omar-abdesslem.ch](https://omar-abdesslem.ch) | [LinkedIn](https://linkedin.com/in/omarff)
+- 🌱 I’m currently learning about **probabilistic models**, **distributed systems**, and **Computer Vision**  
+-  How to reach me: [omar-abdesslem.ch](https://omar-abdesslem.ch) | [LinkedIn](https://linkedin.com/in/omarff)
 
 ---
 
-## 🧠 About Me
+## About Me
 
-🎓 MSc Student @ ETH Zürich | AI Intern @ SecuLabs  
-📍 Zürich, Switzerland  
-💡I value clarity, sustainability, and thoughtful design 
+MSc Student @ ETH Zürich | AI Intern @ SecuLabs  
+Zürich, Switzerland  
+I value clarity, sustainability, and thoughtful design 
 
 
 <!--
