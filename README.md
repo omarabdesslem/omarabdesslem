@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ML projects at **SecuLabs**, a Swiss cybersecurity company  
 - 🌱 I’m currently learning about **probabilistic models**, **distributed systems**, and **Computer Vision**  
--  How to reach me: [omar-abdesslem.ch](https://omar-abdesslem.ch) | [LinkedIn](https://linkedin.com/in/omarff)
+-  How to reach me: [omar-abdesslem.ch](https://omar-abdesslem.ch) | [LinkedIn](https://linkedin.com/in/omarabdesslem)
 
 ---
 
