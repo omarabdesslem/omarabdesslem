@@ -8,7 +8,7 @@
 
 ## About Me
 
-MSc Student @ ETH Zürich | AI Intern @ SecuLabs  
+MSc Student @ ETH Zürich | Student Researcher @ PSI   
 Zürich, Switzerland  
 I value clarity, sustainability, and thoughtful design 
 
